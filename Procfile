@@ -1,1 +1,1 @@
-worker: python app_fine_distillbert.py
+web: python3 app_fine_distillbert.py
