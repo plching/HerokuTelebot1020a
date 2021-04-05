@@ -1,1 +1,0 @@
-worker: python app_fine_distillbert.py
