@@ -9,7 +9,7 @@ app = Flask(__name__)
 
 loop = asyncio.get_event_loop()
 bot = Bot(token="1709244299:AAEMfyW-nXkHm3C2x8aVIMBpqdeNYintcrg")
-bot.set_webhook("https://davidtelebot1020a.herokuapp.com/")
+bot.set_webhook("https://davidchingtelebot1020a.herokuapp.com/")
 dp = Dispatcher(bot, loop)
 
 @dp.message_handler(commands= ['start'])
