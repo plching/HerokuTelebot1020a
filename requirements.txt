@@ -1,0 +1,6 @@
+asyncio
+aiogram==2.12.1
+transformers==4.4.2
+Flask==1.1.1
+torch==1.8.1
+torchvision==0.9.1
